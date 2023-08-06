@@ -4,7 +4,6 @@
 struct process {
   int pid;
   int bt;
-  int tat;
   int wt;
   int ct;
 };
